@@ -13,11 +13,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor/action-sheet": "^5.0.5",
     "@capacitor/android": "^5.1.1",
     "@capacitor/camera": "latest",
     "@capacitor/core": "latest",
     "@capacitor/ios": "^5.1.1",
-    "@capacitor/splash-screen": "latest"
+    "@capacitor/splash-screen": "latest",
+    "@capacitor/toast": "^5.0.5",
+    "alpinejs": "^3.12.3"
   },
   "devDependencies": {
     "@capacitor/cli": "latest",
